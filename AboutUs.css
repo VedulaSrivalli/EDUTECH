@@ -1,0 +1,48 @@
+body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background-image: url('edu.jpeg');
+        margin: 0;
+        padding: 0;
+}
+.container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+}
+header {
+            background: #4a90e2;
+            color: white;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+}
+header h1 {
+            text-align: center;
+            margin-bottom: 20px;
+}
+.about-section {
+            background: #f4f4f4;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+}
+.team-section {
+            margin-top: 20px;
+}
+.team-member {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.vision-section {
+            background: #e8491d;
+            color: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+}
